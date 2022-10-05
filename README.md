@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Web Development
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on focus coding
-- 📫 How to reach me on Github
+- 📫 You can reach me on Github
 
 <!---
 Ashishvatsav/Ashishvatsav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
