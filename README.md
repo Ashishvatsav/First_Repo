@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashishvatsav
-- 👀 I’m interested in Coding and Web Development
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on focus coding
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning C + DSA
 - 📫 You can reach me on Github
 
 <!---
