@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Ashishvatsav
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C + DSA
-- 📫 You can reach me on Github
-
-<!---
-Ashishvatsav/Ashishvatsav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Ashish sreevatsav 👨🏻‍💻
+ Computer Science Student | Passionate computer science student exploring web development.
+// AI, and machine learning 
+// Creating innovative tech solutions
+C programming language
+Python
+Currently learning Object Oriented Programming with C++
+📧 Email: ashish.nandigam@gmail.com
+Let's connect 🧠 🛠️.
