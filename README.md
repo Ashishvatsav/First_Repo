@@ -5,6 +5,6 @@
 <br>
 C programming language
 Python
-Currently learning Object Oriented Programming with C++
+Object Oriented Programming with C++
 📧 Email: ashish.nandigam@gmail.com
 Let's connect 🧠 🛠️.
