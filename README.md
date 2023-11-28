@@ -1,13 +1,3 @@
 # Ashish sreevatsav 👨🏻‍💻
- Computer Science Student | Passionate computer science student exploring web development.
-// AI, and machine learning 
-// Creating innovative tech solutions
-<br>
-C programming language
-<br/>
-Python
-<br/>
-Object Oriented Programming with C++
-<br/>
-📧 Email: ashish.nandigam@gmail.com
-Let's connect 🧠 🛠️.
+ This Repo Consists of Mini Projects that I have created only Using C++. 
+ Game like Minesweeper, BMI calculator
